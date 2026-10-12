@@ -1,6 +1,6 @@
 # zer0pan.github.io
 
-** Lunkwill: "There is an answer?"
+Lunkwill: "There is an answer?"
 
 Deep Thought: "Yes, though I don't think you're going to like it."
 
@@ -18,4 +18,4 @@ Deep Thought: "...Is..."
 
 Fook: "Yes...!!!"
 
-Deep Thought: "Forty-two."  **
+Deep Thought: "Forty-two."
